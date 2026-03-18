@@ -38,9 +38,8 @@ Unlike traditional NLP models, BERT captures **bidirectional context**, allowing
 
 ## 🏗️ Architecture Overview
 
-Input Text → Tokenization → Embeddings → Transformer Encoder Layers → Output
-↓
-Self-Attention Mechanism
+Input Text → Tokenization → Embeddings → Transformer Encoder Layers → Output → Self-Attention Mechanism
+
 
 ✔ Uses **Bidirectional Transformer Encoder**  
 ✔ Captures **context from both left & right**  
@@ -105,7 +104,7 @@ Self-Attention Mechanism
 - **Anurag Sardar**
 - Prajwal Malegavi  
 - Shreya Sharma  
-- Risil Chhatrala  
+- Dr. Risil Chhatrala  
 
 ---
 
