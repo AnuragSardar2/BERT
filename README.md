@@ -100,12 +100,12 @@ Input Text → Tokenization → Embeddings → Transformer Encoder Layers → Ou
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Contributors
 - **Anurag Sardar**
 - Prajwal Malegavi  
 - Shreya Sharma  
 - Dr. Risil Chhatrala  
-
+*Project developed as part of a team during undergraduate studies*
 ---
 
 ## 📚 References
